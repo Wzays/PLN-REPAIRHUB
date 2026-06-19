@@ -19,7 +19,9 @@ Aplikasi ini dibuat untuk menyelesaikan masalah utama dalam layanan teknisi komp
    - Menyediakan formulir detail kendala perangkat beserta fitur unggah bukti kerusakan (Base64 renderer).
 
 <img width="806" height="422" alt="image" src="https://github.com/user-attachments/assets/171c030e-e8ec-499c-94cd-dddda9d7e114" />
+
 <img width="787" height="481" alt="image" src="https://github.com/user-attachments/assets/1401978a-4bdb-4e47-9ee8-e5b71cc188fb" />
+
 <img width="461" height="436" alt="image" src="https://github.com/user-attachments/assets/23a2ebb7-ae71-4e53-b953-fce024b14098" />
 
 
@@ -33,7 +35,7 @@ Aplikasi ini dibuat untuk menyelesaikan masalah utama dalam layanan teknisi komp
 3. Portal Pelacakan Pelanggan (Booking Tracker)
    - Panel interaktif bagi pelanggan untuk melacak, mengelola, mengubah jadwal, atau membatalkan pesanan.
    - Menampilkan detail teknisi yang bertugas dan rincian biaya akhir.
-![Uploading image.png…]()
+<img width="461" height="450" alt="image" src="https://github.com/user-attachments/assets/bb4f5286-0723-4bc6-93ce-cb6a7919f196" />
 
 
 
