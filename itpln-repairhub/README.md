@@ -16,22 +16,22 @@ Aplikasi ini dibuat untuk menyelesaikan masalah utama dalam layanan teknisi komp
 1. Dashboard Utama & Reservasi
    - Tampilan ringkas untuk akses cepat ke fitur utama reservasi dan form pemesanan instan.
    - Menampilkan status konektivitas database secara *real-time*.
-<img width="1818" height="912" alt="Dashboard Utama" src="https://github.com/user-attachments/assets/letakkan-link-gambar-1-disini" />
+   - Menyediakan formulir detail kendala perangkat beserta fitur unggah bukti kerusakan (Base64 renderer).
+
+<img width="1818" height="912" alt="Dashboard Utama" src="assets/images/screenshots/Cuplikan layar 2026-06-19 160504.png" />
+<img width="1823" height="895" alt="Detail Perangkat & Unggah Bukti" src="assets/images/screenshots/Cuplikan layar 2026-06-19 160639.png" />
 
 2. Katalog Layanan
    - Menampilkan daftar layanan standar, rincian biaya dasar, dan estimasi waktu.
    - Menyediakan tampilan *Grid* dinamis dengan desain bergaya brutalist.
-<img width="1812" height="892" alt="Katalog Layanan" src="https://github.com/user-attachments/assets/letakkan-link-gambar-2-disini" />
 
-3. Portal Pelacakan Pelanggan
+<img width="1812" height="892" alt="Katalog Layanan" src="assets/images/screenshots/Cuplikan layar 2026-06-19 160536.png" />
+
+3. Portal Pelacakan Pelanggan (Booking Tracker)
    - Panel interaktif bagi pelanggan untuk melacak, mengelola, mengubah jadwal, atau membatalkan pesanan.
    - Menampilkan detail teknisi yang bertugas dan rincian biaya akhir.
-<img width="1823" height="895" alt="Portal Pelacakan" src="https://github.com/user-attachments/assets/letakkan-link-gambar-3-disini" />
 
-4. Sistem Administrator (Admin Panel)
-   - Dasbor antarmuka CRUD (*Create, Read, Update, Delete*) khusus untuk admin.
-   - Memudahkan manajemen pemesanan, modifikasi profil teknisi, dan penambahan paket layanan baru.
-<img width="1825" height="910" alt="Admin Panel" src="https://github.com/user-attachments/assets/letakkan-link-gambar-4-disini" />
+<img width="1823" height="895" alt="Portal Pelacakan" src="assets/images/screenshots/Cuplikan layar 2026-06-19 160709.png" />
 
 
 ## Teknologi & Tools
@@ -68,16 +68,3 @@ Aplikasi ini dibuat untuk menyelesaikan masalah utama dalam layanan teknisi komp
 
 ```bash
 http://localhost/itpln-repairhub/database/setup.php
-```
-
-3. Buka halaman utama aplikasi di browser Anda:
-
-```bash
-http://localhost/itpln-repairhub/
-```
-
-## Catatan
-
-- Aplikasi menggunakan arsitektur hibrida di mana logika antarmuka dan *backend API* dipisahkan dengan sangat rapi tanpa memerlukan *framework* eksternal.
-- Gambar kendala pelanggan akan langsung diubah (*encode*) menjadi Base64 melalui `FileReader` JavaScript tanpa perlu media penyimpanan eksternal.
-- Struktur dan desain siap diperluas dengan fitur keamanan autentikasi login atau integrasi *Payment Gateway* sesuai kebutuhan Anda.
