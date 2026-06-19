@@ -18,20 +18,23 @@ Aplikasi ini dibuat untuk menyelesaikan masalah utama dalam layanan teknisi komp
    - Menampilkan status konektivitas database secara *real-time*.
    - Menyediakan formulir detail kendala perangkat beserta fitur unggah bukti kerusakan (Base64 renderer).
 
-<img width="1818" height="912" alt="Dashboard Utama" src="assets/images/screenshots/Cuplikan layar 2026-06-19 160504.png" />
-<img width="1823" height="895" alt="Detail Perangkat & Unggah Bukti" src="assets/images/screenshots/Cuplikan layar 2026-06-19 160639.png" />
+<img width="806" height="422" alt="image" src="https://github.com/user-attachments/assets/171c030e-e8ec-499c-94cd-dddda9d7e114" />
+<img width="787" height="481" alt="image" src="https://github.com/user-attachments/assets/1401978a-4bdb-4e47-9ee8-e5b71cc188fb" />
+<img width="461" height="436" alt="image" src="https://github.com/user-attachments/assets/23a2ebb7-ae71-4e53-b953-fce024b14098" />
+
 
 2. Katalog Layanan
    - Menampilkan daftar layanan standar, rincian biaya dasar, dan estimasi waktu.
    - Menyediakan tampilan *Grid* dinamis dengan desain bergaya brutalist.
 
-<img width="1812" height="892" alt="Katalog Layanan" src="assets/images/screenshots/Cuplikan layar 2026-06-19 160536.png" />
+<img width="803" height="488" alt="image" src="https://github.com/user-attachments/assets/ff95f923-3fdb-4bda-9073-ff3a7a415b38" />
+
 
 3. Portal Pelacakan Pelanggan (Booking Tracker)
    - Panel interaktif bagi pelanggan untuk melacak, mengelola, mengubah jadwal, atau membatalkan pesanan.
    - Menampilkan detail teknisi yang bertugas dan rincian biaya akhir.
+![Uploading image.png…]()
 
-<img width="1823" height="895" alt="Portal Pelacakan" src="assets/images/screenshots/Cuplikan layar 2026-06-19 160709.png" />
 
 
 ## Teknologi & Tools
