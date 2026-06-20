@@ -17,8 +17,9 @@ Aplikasi ini dibuat untuk menyelesaikan masalah utama dalam layanan teknisi komp
    - Tampilan ringkas untuk akses cepat ke fitur utama reservasi dan form pemesanan instan.
    - Menampilkan status konektivitas database secara *real-time*.
    - Menyediakan formulir detail kendala perangkat beserta fitur unggah bukti kerusakan (Base64 renderer).
+<img width="933" height="488" alt="Cuplikan layar 2026-06-19 160504" src="https://github.com/user-attachments/assets/9c81eb57-6572-4cbd-9103-4ea8092a518f" />
 
-("assets/images/screenshots/Cuplikan layar 2026-06-19 160504.png")
+<img width="1818" height="912" alt="Dashboard Utama" src="assets/images/screenshots/Cuplikan layar 2026-06-19 160504.png" />
 <img width="1823" height="895" alt="Detail Perangkat & Unggah Bukti" src="assets/images/screenshots/Cuplikan layar 2026-06-19 160639.png" />
 
 2. Katalog Layanan
