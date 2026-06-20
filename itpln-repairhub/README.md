@@ -37,6 +37,14 @@ Aplikasi ini dibuat untuk menyelesaikan masalah utama dalam layanan teknisi komp
    - Menampilkan detail teknisi yang bertugas dan rincian biaya akhir.
 <img width="461" height="450" alt="image" src="https://github.com/user-attachments/assets/bb4f5286-0723-4bc6-93ce-cb6a7919f196" />
 
+4. Sistem Administrator (Admin Panel)
+
+   - Dasbor antarmuka CRUD (*Create, Read, Update, Delete*) khusus untuk admin.
+
+   - Memudahkan manajemen pemesanan, modifikasi profil teknisi, dan penambahan paket layanan baru.
+<img width="781" height="467" alt="image" src="https://github.com/user-attachments/assets/4078471b-5bd1-4e54-922a-70b9cf9336d7" />
+<img width="704" height="458" alt="image" src="https://github.com/user-attachments/assets/54d542ec-583d-47cc-bbff-67116cfd3047" />
+<img width="731" height="478" alt="image" src="https://github.com/user-attachments/assets/3eef18ef-6e83-49cf-8524-7fc6b0406f23" />
 
 
 ## Teknologi & Tools
