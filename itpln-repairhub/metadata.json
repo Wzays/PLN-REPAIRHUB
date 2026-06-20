@@ -1,6 +1,0 @@
-{
-  "name": "ITPLN-RepairHub",
-  "description": "Sistem Booking Servis Komputer & Laptop Panggilan Terpercaya dengan pelacakan status perbaikan, manajemen teknisi, dan ungguh berkas kendala perangkat.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
