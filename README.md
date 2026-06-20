@@ -18,7 +18,7 @@ Aplikasi ini dibuat untuk menyelesaikan masalah utama dalam layanan teknisi komp
    - Menampilkan status konektivitas database secara *real-time*.
    - Menyediakan formulir detail kendala perangkat beserta fitur unggah bukti kerusakan (Base64 renderer).
 
-<img width="1818" height="912" alt="Dashboard Utama" src="assets/images/screenshots/Cuplikan layar 2026-06-19 160504.png" />
+("assets/images/screenshots/Cuplikan layar 2026-06-19 160504.png")
 <img width="1823" height="895" alt="Detail Perangkat & Unggah Bukti" src="assets/images/screenshots/Cuplikan layar 2026-06-19 160639.png" />
 
 2. Katalog Layanan
